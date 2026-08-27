@@ -170,4 +170,4 @@ cmake --build build --target tetris_test
 如有问题、Bug 反馈或功能建议，欢迎联系项目组成员：
 
 > 
-> 📧 zhaoyc@nwafu.edu.cn
+> 📧 wszychhh@gmail.com
